@@ -31,4 +31,4 @@ public class MealCharge
       System.out.println("Your total bill amount is " +totalMealCharge);     
       //End program
    }
-}
+} 
